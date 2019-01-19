@@ -5,5 +5,5 @@
 # 2019/01/19小记
 现有的googlevideo的地址貌似全死光了，我编译出来的hosts只能上YTB不能看视频
 为此
-I think you should use this project to surf the true internet
+I think you should use this project to surf the true internet，
 project link ：https://github.com/XX-net/XX-Net
