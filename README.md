@@ -45,4 +45,4 @@ ntq7yner/ntqe6n7k/ntqe6n7r→IATA:SYD=悉尼机场</br>
 
 按照作者的原话来说，youtube会分配一个离你最近，速度最快的服务器给你，因为sn服务器的地址全部都是固定的，所以不能通过重定向来加速，所以需要通过代理youtube来加速
 
-现如今ytb不能看视频，推介项目https://github.com/XX-net/XX-Net，前提需要开启ipv6
+现如今ytb不能看视频，推介项目https://github.com/XX-net/XX-Net 前提：需要开启ipv6
