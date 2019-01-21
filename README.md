@@ -48,4 +48,5 @@ ntq7yner/ntqe6n7k/ntqe6n7r→IATA:SYD=悉尼机场</br>
 现如今ytb不能看视频，推介项目https://github.com/XX-net/XX-Net 前提：需要开启ipv6
 
 # 2019/01/21小记
-上传了all-googlevideo.txt，这个是利用脚本生成的地址，献给有需要的童鞋
+上传了all-googlevideo.txt，这个是利用脚本生成的地址，献给有需要的童鞋</br>
+记得在更新hosts的时候做好备份，不保证每个hosts的地址都能用（特殊时期），每次编译出来的地址都是不同的
