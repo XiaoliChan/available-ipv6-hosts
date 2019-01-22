@@ -1,6 +1,12 @@
 # available-ipv6-hosts
 自从1/15原hosts地址部分失效后，我自行编译了一些</br>
 自己编译出来的v6hosts，源自项目：https://github.com/lennylxx/ipv6-hosts
+</br>
+其中，build-by的意思表示在编译hosts的时候使用的什么dns去进行解析服务器</br>
+Tsinghua表示清华:101.6.6.6</br>
+ChinesePublic表示国内:240c::6666</br>
+USTC表示中科大:202.141.162.123</br>
+表示原先是用谷歌的，可是我这里莫名其妙就用不了谷歌的dns了
 
 # 2019/01/19小记
 现有的googlevideo的地址貌似全死光了，我编译出来的hosts只能上YTB不能看视频
